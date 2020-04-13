@@ -1,0 +1,7 @@
+# 该文件应放在远程git仓库上
+com:
+  zhyng:
+    config:
+      server:
+        username: zhyng
+        password: 123456
